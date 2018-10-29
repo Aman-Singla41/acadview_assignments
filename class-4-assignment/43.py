@@ -1,2 +1,2 @@
-l = list(input("enetr any string:  ").split())
-print(l)
+list1 = list(input("enter any string:  ").split())
+print(list1)
